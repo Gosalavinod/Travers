@@ -13,10 +13,7 @@ Detailed Views: Embedded YouTube videos, location descriptions, and Google Maps 
 Responsive Design: Powered by Bootstrap for mobile and desktop views.
 
 ## 📁 Project Structure
-bash
-Copy
-Edit
-Travers/
+Travers
 ├── index.html         # Main HTML file
 ├── index.css            # Custom CSS file
 └── README.md          # This file

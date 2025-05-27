@@ -18,18 +18,8 @@ Copy
 Edit
 Travers/
 ├── index.html         # Main HTML file
-├── taj.css            # Custom CSS file
+├── index.css            # Custom CSS file
 └── README.md          # This file
-🛠️ Technologies Used
-HTML5
-
-CSS3
-
-Bootstrap 4.5.2
-
-JavaScript (for navigation via display() function)
-
-jQuery, Popper.js (Bootstrap dependencies)
 
 ## 🖼️ Preview
 Explore sections like:

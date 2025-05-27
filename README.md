@@ -15,9 +15,9 @@ Responsive Design: Powered by Bootstrap for mobile and desktop views.
 ## 📁 Project Structure
 ## Travers
 
-index.html / Main HTML file /
-index.css  / Custom CSS file /
-README.md  / This file /
+index.html # Main HTML file /
+index.css  # Custom CSS file /
+README.md  # This file /
 
 ## 🖼️ Preview
 Explore sections like:
